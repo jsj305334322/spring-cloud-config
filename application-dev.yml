@@ -89,4 +89,4 @@ logging:
 #  ribbon:
 #    NFLoadBalancerRuleClassName: com.netflix.loadbalancer.RoundRobinRule
 config:
-    info: qqq
+       info: qqq
