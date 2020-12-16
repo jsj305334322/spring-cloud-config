@@ -88,5 +88,5 @@ logging:
 #authcenter-service:
 #  ribbon:
 #    NFLoadBalancerRuleClassName: com.netflix.loadbalancer.RoundRobinRule
-
-info: qqq
+config:
+    info: qqq
